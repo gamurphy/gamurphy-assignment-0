@@ -3,8 +3,8 @@ def add_numbers(x,y):
 
 def main():
     try:
-        num1 = float(input("Num1:"))
-        num2 = float(input("Num2"))
+        num1 = float(input("Num1: "))
+        num2 = float(input("Num2: "))
         
         sum = add_numbers(num1, num2)
 
